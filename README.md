@@ -2,10 +2,12 @@ Hi there 👋
 
 Welcome to my github page!
 
+My name is Kyle Combs, I am a Fullstack Software Engineer, Creative Developer, and Designer. I love coding and making music!
+
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about making music with code!
-- 📫 How to reach me: kylecombs429@gmail.com
+- 📫 Reach me at kylecombs429@gmail.com
 - 😄 Pronouns: He/Him
 
 connect with me!<br/>
