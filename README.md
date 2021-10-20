@@ -2,7 +2,7 @@ Hi there 👋
 
 Welcome to my github page!
 
-My name is Kyle Combs, I am a Fullstack Software Engineer, Artist, Musician, Designer, and Recaptcha confirmed human. I love coding and making music!
+My name is Kyle Combs, I am a Fullstack Software Engineer, Artist, Musician, Designer, and Recaptcha confirmed human. <br/>I love coding and making music!
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning Typescript
