@@ -27,8 +27,12 @@ My Technologies:<br/>
 Some of the projects I am proud of:
 
 WEBFLUENCE
-a web app for exploring the connections between 
+a web app for exploring the connections between politician's and their biggest donors
 https://webfluence.herokuapp.com/
+
+CSS FM Synth 
+a browser-based fm synthesizer
+https://fmsynth.netlify.app/
 
 CODA
 A web-based environment for creating music with code
