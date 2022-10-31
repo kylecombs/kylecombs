@@ -2,6 +2,8 @@ Hi there 👋
 
 Welcome to my github page!
 
+Check out my porfolio website https://www.kyledavidcombs.com/
+
 My name is Kyle Combs, I am a Fullstack Software Engineer, Artist, Musician, Designer, and Recaptcha confirmed human. <br/>I love coding and making music!
 
 - 🔭  I'm currently working on an e-commerce site for a record store
@@ -37,10 +39,6 @@ https://webfluence.herokuapp.com/
 CSS FM Synth --
 a browser-based fm synthesizer
 https://fmsynth.netlify.app/
-
-CODA --
-a web-based environment for creating music with code
-http://coda-music-and-code.herokuapp.com/
 
 
 
