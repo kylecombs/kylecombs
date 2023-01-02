@@ -6,7 +6,7 @@ Check out my porfolio website https://www.kyledavidcombs.com/
 
 My name is Kyle Combs, I am a Fullstack Software Engineer, Artist, Musician, Designer, and Recaptcha confirmed human. <br/>I love coding and making music!
 
-- 🔭  I'm currently building a collaborative music generation web app
+- 🔭  I'm currently building a new portfolio website
 - 💬  Ask me about making music with code!
 - 📫  Reach me at kylecombs429@gmail.com
 - 😄  Pronouns: He/Him
