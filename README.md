@@ -17,8 +17,8 @@ connect with me!<br/>
 My Technologies:<br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-%FF0000.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
-![Ruby](https://img.shields.io/badge/ruby-%23323330.svg?style=for-the-badge&logo=ruby&logoColor=%white)
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+![Ruby](https://img.shields.io/badge/ruby-%23F05033.svg?style=for-the-badge&logo=ruby&logoColor=%white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql-ED3BED?style=for-the-badge&logo=graphql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
