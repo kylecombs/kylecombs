@@ -2,8 +2,6 @@ Hi there 👋
 
 Welcome to my github page!
 
-Check out my porfolio website https://www.kyledavidcombs.com/
-
 My name is Kyle Combs, I am a Fullstack Software Engineer, Artist, Musician, Designer, and Recaptcha confirmed human. <br/>I love coding and making music!
 
 - 🔭  I'm currently building a new portfolio website
